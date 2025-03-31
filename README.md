@@ -21,7 +21,7 @@ Ensure you have Python 3 installed along with the necessary dependencies.
 ### Setup Instructions
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/NewsInsight/news-summarization-app.git
+   git clone https://github.com/AnjaliDhosariya/NewsInsight.git
    cd news-summarization-app
    ```
 2. **Create a Virtual Environment**:
