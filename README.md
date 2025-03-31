@@ -1,7 +1,7 @@
 # NewsInsight
 
 ## Overview
-The **News Summarization & Sentiment Analysis App** is a Streamlit-based web application that fetches the latest news articles related to a specific company, summarizes them, and performs sentiment analysis on the articles. It also provides comparative sentiment analysis and text-to-speech (TTS) functionality in both English and Hindi.
+The **NewsInsight App** is a Streamlit-based web application that fetches the latest news articles related to a specific company, summarizes them, and performs sentiment analysis on the articles. It also provides comparative sentiment analysis and text-to-speech (TTS) functionality in both English and Hindi.
 
 ## Features
 - **Fetch News Articles**: Retrieves news articles from multiple RSS feed sources based on a user-provided company name.
