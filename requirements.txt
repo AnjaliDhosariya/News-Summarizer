@@ -1,0 +1,9 @@
+streamlit
+requests
+feedparser
+newspaper3k
+nltk
+gtts
+python-dotenv
+dateutil
+urllib3
